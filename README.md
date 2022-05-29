@@ -1,5 +1,5 @@
 
-# Reseau social 
+# Reseau social (Front-end en cours)
 
 Réseau social imitation de twitter.
 
